@@ -2,3 +2,4 @@
 
 Run using:
 python pipeline.py data/census_sample.csv
+CI/CD Trigger Test
