@@ -3,7 +3,7 @@ age,workclass,fnlwgt,education,education-num,marital-status,occupation,relations
 69,Never-worked,211152,Assoc-acdm,14,Never-married,Sales,Husband,White,Male,5507,0,13,China,<=50K
 46,Self-emp-not-inc,309888,Assoc-voc,12,Separated,Farming-fishing,Husband,Black,Male,0,0,31,United-States,<=50K
 32,Never-worked,186615,9th,4,Divorced,Machine-op-inspct,Other-relative,White,Female,0,1552,35,China,>50K
-,Local-gov,380463,HS-grad,4,Divorced,Prof-specialty,Other-relative,Other,Female,0,0,60,Canada,<=50K
+32,Local-gov,380463,HS-grad,4,Divorced,Prof-specialty,Other-relative,Other,Female,0,0,60,Canada,<=50K
 25,Self-emp-not-inc,102193,Assoc-acdm,9,Separated,Other-service,Other-relative,Amer-Indian-Eskimo,Female,0,0,6,India,>50K
 78,Self-emp-not-inc,46187,Assoc-voc,6,Widowed,Farming-fishing,Husband,White,Male,0,1552,69,Mexico,<=50K
 38,Self-emp-not-inc,148311,Some-college,9,Widowed,Exec-managerial,Wife,Other,Female,0,1552,86,Mexico,>50K
